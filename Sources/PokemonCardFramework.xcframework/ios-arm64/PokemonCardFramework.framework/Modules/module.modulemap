@@ -1,0 +1,6 @@
+framework module PokemonCardFramework {
+  umbrella header "PokemonCardFramework.h"
+  export *
+
+  module * { export * }
+}
